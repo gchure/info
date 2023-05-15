@@ -1,0 +1,9 @@
+*.tif*
+*.swp
+*.log
+*.bbl
+*.DS_*tore
+*checkpoints*
+*.pyc
+*.egg-info
+*.hpp
